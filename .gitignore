@@ -1,0 +1,20 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Auth Service
+services/auth/node_modules/
+services/auth/dist/
+services/auth/.env
+
+# Rider Service (future)
+services/rider/node_modules/
+services/rider/dist/
+services/rider/.env
+
+# General
+node_modules/
+dist/
+.env
+*.log
+.vscode/
